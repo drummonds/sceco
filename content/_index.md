@@ -61,7 +61,7 @@ Block plan
 - The site covers 2,3,4 not only 4 as is claimed. ![pTAL image](image.png)
 - Claims bizarrely that change to B8 will be beneficial from chaning to B8 which was refused planning permission
 last time.
-- Claims noise assesement shows lower sound use than current  but the builders stopped a while ago
+- Claims noise assesement shows lower sound use than current but the builders stopped a while ago so old data must be modelled.
 
 ### Usefully highlights relevant plans:
 
@@ -85,6 +85,8 @@ Important material considerations include:
 
 
 Old applications do constrain the nuisance.  It is misleading to say that there were no noise orders on previous operations as the first [noise abatement][] act was in 1960.   This defines that a statutory nuisance can be due to noise or vibration. They were however not at all comprehenseive or fully enforceable.
+
+## Noise impact
 
 [noise abatement]: https://www.legislation.gov.uk/ukpga/1960/68/contents/enacted
 
@@ -111,7 +113,15 @@ The numbers used by the consultants seem vastly bumped up for preovious use eg r
 
 The noise managment plan contradicts the noise modelling by allowing gas or electric trucks rather than electric.
 
+## Transport statement
+
 The transport stattement has spelling mistakes eg page 2
+
+The transport statement seems to use different data on the vehicle movements to the noise statement. 
+The noise impact has cherry picked data from a video which has not been provided and the transport statement 
+relies on data from a refused submission in 2021.
+
+The [2021 submission](/2023-6scs/6scs/21_02840_FUL-TRANSPORT_ASSESSMENT-2710834.pdf) for the residential site calculated data from an industry standard TRICS database but did not take into account
 
 
 ## How does the new application mitigate the refusal of the last application
@@ -150,7 +160,7 @@ with Lambeth Local Plan 2020-2035 (2021) policy Q2.
 failing to ensure that noise and other nuisances will be managed and mitigated in accordance with London Plan
 (2021) policy D13 and Lambeth Local Plan 2020-2035 (2021) policy Q2.
 
-*These grounds are still valid and not mitigated by the ficitious Nois Management Plan*
+*These grounds are still valid and not mitigated by the ficitious Noise Management Plan*
 
 6. The applicant has failed to provide details of servicing, to include a tracking diagram and confirmation that
 vehicles of 10m rigid would not enter the site. As such the proposal fails to ensure that safe turning areas are
