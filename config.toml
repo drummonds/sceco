@@ -8,9 +8,9 @@ summaryLength = 30
 
 
 [params]
-#  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Campaigning for Streatham Common.'
+homepage_button_link = '/docs'
+#  homepage_button_text = 'Read The Docs'
+#  homepage_intro = 'Campaigning for Streatham Common.'
 #  homepage_image = '/sceco.gif'
 
 
@@ -26,7 +26,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "History"
-    url = "/hist/"
+    url = "/history/"
     weight = 3
 
 
