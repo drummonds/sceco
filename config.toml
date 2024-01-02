@@ -1,4 +1,8 @@
 baseURL = 'http://www.sceco.org.uk/'
 languageCode = 'en-gb'
-title = 'My New Hugo Site'
+title = 'Streatham Commmon Enviromental CoOperative '
 theme = 'whisper'
+
+[params.logo]
+      mobile = "/sceco.gif"
+      standard  = "/sceco.gif"
