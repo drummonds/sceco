@@ -1,7 +1,34 @@
 baseURL = 'http://www.sceco.org.uk/'
 languageCode = 'en-gb'
-title = 'Streatham Commmon Enviromental CoOperative '
+title = 'Streatham Commmon Enviromental CoOperative'
 theme = 'whisper'
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+
+[params]
+#  homepage_button_link = '/docs'
+  homepage_button_text = 'Read The Docs'
+  homepage_intro = 'Campaigning for Streatham Common.'
+#  homepage_image = '/sceco.gif'
+
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 2
+
+[[menu.main]]
+    name = "History"
+    url = "/hist/"
+    weight = 3
+
 
 [params.logo]
       mobile = "/sceco.gif"
