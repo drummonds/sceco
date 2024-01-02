@@ -9,7 +9,7 @@ summaryLength = 30
 
 [params]
 homepage_button_link = '/docs'
-#  homepage_button_text = 'Read The Docs'
+homepage_button_text = 'Read More Docs'
 #  homepage_intro = 'Campaigning for Streatham Common.'
 #  homepage_image = '/sceco.gif'
 
