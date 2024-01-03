@@ -21,6 +21,22 @@ We have until the 7th of January to get objections in. If you can spare 2 minute
 1. Select stance **Object**
 1. Add your own comment or could use the following draft objections:
 
+- Contravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990
+- The proposal is with the curtiledge of a listed building, No 9 Streatham Common South
+- Essentially 24 x 7 operation from limited hours when operated as a builders yard.
+- Noise and pollution
+- Trafic Congestion and Pollution
+- an uplift of Transport movements
+- Inadequate and/or safe access/egress to the premises
+- Pedestrian and Common Users Health and Safety
+- The extension of working hours on the premises as from the previous use by Lewis & Co  Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only
+- An inadequate transport assesement of B8 sue with specific referenc to an Inner London site
+- No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis 
+
+## Mailing link
+
+{{< rawhtml >}} <a href="mailto:planning@lambeth.gov.uk?subject=Objection to 23/03943/FUL&body=Contravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990%0D%0AThe proposal is with the curtiledge of a listed building, No 9 Streatham Common South%0D%0AEssentially 24 x 7 operation from limited hours when operated as a builders yard.%0D%0ANoise and pollution%0D%0ATrafic Congestion and Pollution%0D%0Aan uplift of Transport movements%0D%0AInadequate and/or safe access/egress to the premises%0D%0APedestrian and Common Users Health and Safety%0D%0AThe extension of working hours on the premises as from the previous use by Lewis and Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only%0D%0AAn inadequate transport assesement of B8 sue with specific referenc to an Inner London site%0D%0ANo Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis /">Email Lambeth planning</a> {{< /rawhtml >}}
+
 ## Issues
 
 1. The planning application is wrong and I think a tree survey is rquired.
