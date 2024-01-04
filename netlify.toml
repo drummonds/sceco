@@ -1,0 +1,5 @@
+[build]
+command = "git submodule update --init --recursive --depth=1 && hugo --minify --ignoreCache"
+
+[context.deploy-preview]
+command = "git submodule update --init --recursive --depth=1 && hugo -b $DEPLOY_PRIME_URL --minify --ignoreCache"

@@ -13729,8 +13729,9 @@ p {
       opacity: 0.8; }
 
 .page-home {
-  text-align: center; }
+  text-align: left; }
   .page-home .title {
+    text-align: center;
     font-weight: lighter;
     font-family: "Roboto", Arial, sans-serif, -apple-system; }
   .page-home p {
