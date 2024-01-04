@@ -200,21 +200,23 @@ _These grounds are still valid and not mitigated by the ficitious Noise Manageme
 
 ## Lewis Hours of Operation
 
-[As recorded in 2021-03-21](https://find-open.co.uk/london/lewis-costreatham-ltd-1274001)
+The hours of opening of Lews and Co were recorded on their web site update of May 11th, 2015 and stored in 
+the internet archive. 
+[http://www.lewisandcompany.eu/](https://web.archive.org/web/20150511162443/http://www.lewisandcompany.eu/)
 
-There is some idea that large lorries were not starting to deliver before 8am
+![Lewis and Company logo](lewis-and-company-streatham-logo.png) Lewis and Co (Streatham) Ltd {{< rawhtml >}}<br/>{{< /rawhtml >}}
+020 8679 2494{{< rawhtml >}}<br/>{{< /rawhtml >}}
+6 Streatham Common South, London, SW16 3BT{{< rawhtml >}}<br/>{{< /rawhtml >}}
+Monday to Friday: 07:30AM to 5PM{{< rawhtml >}}<br/>{{< /rawhtml >}}
+Saturday: 8AM to 1PM 
 
-### Opening Hours
+### Large delieries
 
-| Day       | Hours         |
-| --------- | ------------- |
-| Tuesday   | 07:00 - 16:00 |
-| Wednesday | 07:00 - 16:00 |
-| Thursday  | 07:00 - 16:00 |
-| Friday    | 07:00 - 16:00 |
-| Saturday  | 08:00 - 12:00 |
-| Sunday    | Closed        |
-| Monday    | 07:00 - 16:00 |
+Around 2000 an injunction was obtained to prevent Lewis and Co moving large articulated lorries in and out of the builders yard.  
+This was causing danger to those using the pedestrian crossing to Streatham Common South.  So the evolved custom
+was to load and unload articulated trucks with forklifts with the lorries parked on what became double yellow lines
+opposite the park.  The deliveries would not start until about 8am but still interfered with parents taking
+their children to school.
 
 [PlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?keyVal=S59KBSBOH0G00&activeTab=summary
 [CommentPlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=S59KBSBOH0G00

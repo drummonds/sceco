@@ -33,3 +33,32 @@ homepage_button_text = 'Read More Docs'
 [params.logo]
       mobile = "/sceco.gif"
       standard  = "/sceco.gif"
+
+
+[module]
+ [[module.imports]]
+   path = 'github.com/mrhelloboy/seven'
+ [module.hugoVersion]
+   extended = false
+   min      = "0.112.0"
+ [[module.mounts]]
+   source = "assets"
+   target = "assets"
+ [[module.mounts]]
+   source = "hugo_stats.json"
+   target = "assets/watching/hugo_stats.json"
+
+[build]
+ writeStats = true
+ [[build.cachebusters]]
+   source = "assets/watching/hugo_stats\\.json"
+   target = "styles\\.css"
+ [[build.cachebusters]]
+   source = "(postcss|tailwind)\\.config\\.js"
+   target = "css"
+ [[build.cachebusters]]
+   source = "assets/.*\\.(js|ts|jsx|tsx)"
+   target = "js"
+ [[build.cachebusters]]
+   source = "assets/.*\\.(.*)$"
+   target = "$1"
