@@ -1,19 +1,44 @@
----
-title: Streatham Common Environmental CoOperative
-date: 2024-01-02
----
+--- 
+title: SCECO Response to 23/03943/FUL
+date: 2024-01-04
+----
 
-This is an update of the [old SCECO website](http://www.sceco.org.uk/) to fight new campaigns.
-Note that this has no affiliation with the [Saudi Consolidated Electric Company](https://acronyms.thefreedictionary.com/SCECO).
+Sceco is a local cooperative which has been involved in the set up of the conservation area 39 years ago and 
+has been fighting tirelessly since then to preserve and enhance Streatham Common.
 
-## When is a conservation area not a conservation area again.
+# The planning application
 
-Planning application [23/03943/FUL][PlanningApplication2023] for Number 6 Streatham Common South will cause immense harm to our area.:
+The planning application 23/03943/FUL is explicitly for:
 
-- Convert the Streatham Common South into a 24 7 industrial lorry park
-- Destroy the historic builders yard.
+a. Change of use from existing builder's yard (Sui Generis) to open storage (Use Class B8)
+b. provision of on-site parking
+c. provision of cycle parking 
+d. provision of a bin store.  
 
-We have until the 7th of January to get objections in. If you can spare 2 minutes of your time you can help save the area by objecting to this development:
+Implicitly in the supporting documentation it is for:
+a. Expanded hours of operation
+b. Expanded vehicle movements
+
+## Change of use existing builder's yard (Sui Generis) to open storage (Use Class B8)
+
+Class B8 is for storage or as a distribution centre.  It is defined in [The Town and Country Planning (Use Classes) Order 1987](https://www.legislation.gov.uk/uksi/1987/764/contents/made) **Use for storage or as a distribution centre.**
+
+It is not been subsequently modified up to [Use Classes Order of 2020](https://www.legislation.gov.uk/uksi/2020/757/made).
+
+[Savills has a nice document](https://www.savills.co.uk/resources-and-tools/guide-to-use-classes-order-in-england/guide-to-use-classes-order-england-from-1-sep-2020.pdf) showing what further changes are then allowed:
+
+- Permitted change to former Class B1^
+- Permitted change to Class C3 subject to total floorspace being no greater than 500sqm of
+floorspace in the building*
+- Temporary permitted change (2 years) to a state funded school
+
+[Carter Jonas](https://www.carterjonas.co.uk/commercial/open-storage/classifying-sites) has a description of what open storage is for:
+
+```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities. ```
+
+This seems wholly inappropriate for a long established conservation area.
+
+{{ rawhtml }}<hr/>{{ /rawhtml }}
 
 1. Make a comment on the planning application [23/03943/FUL][CommentPlanningApplication2023]
 1. You may have sign in or register for mylambeth
@@ -22,7 +47,7 @@ We have until the 7th of January to get objections in. If you can spare 2 minute
 1. Add your own comment or could use the following draft objections:
 
 - Contravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990
-- The proposal is with the curtilage of a listed building, No 9 Streatham Common South
+- The proposal is with the curtiledge of a listed building, No 9 Streatham Common South
 - Essentially 24 x 7 operation from limited hours when operated as a builders yard.
 - Noise and pollution
 - Traffic Congestion and Pollution
@@ -30,29 +55,29 @@ We have until the 7th of January to get objections in. If you can spare 2 minute
 - Inadequate and/or safe access/egress to the premises
 - Pedestrian and Common Users Health and Safety
 - The extension of working hours on the premises as from the previous use by Lewis & Co  Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only
-- An inadequate transport assessment of B8 sue with specific reference to an Inner London site
+- An inadequate transport assesement of B8 sue with specific referenc to an Inner London site
 - No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis 
 
 ## Mailing link
 
-{{< rawhtml >}} <a href="mailto:planning@lambeth.gov.uk?subject=Objection to planning application 23/03943/FUL&body=REASONS FOR OBJECTION%0D%0AContravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990%0D%0AThe proposal is by the curtilage of a listed building, No 9 Streatham Common South%0D%0AEssentially 24 x 7 operation from limited hours when operated as a builders' yard.%0D%0ANoise and pollution%0D%0ATraffic congestion and pollution%0D%0Aan uplift of Transport movements%0D%0AInadequate and/or safe access/egress to the premises%0D%0APedestrian and Common Users Health and Safety%0D%0AThe extension of working hours on the premises as from the previous use by Lewis and Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only%0D%0AAn inadequate transport assessment of B8 sue with specific reference to an Inner London site%0D%0ANo Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis /">Email Lambeth planning</a> {{< /rawhtml >}}
+{{< rawhtml >}} <a href="mailto:planning@lambeth.gov.uk?subject=Objection to planning application 23/03943/FUL&body=REASONS FOR OBJECTION%0D%0AContravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990%0D%0AThe proposal is by the curtilage of a listed building, No 9 Streatham Common South%0D%0AEssentially 24 x 7 operation from limited hours when operated as a builders' yard.%0D%0ANoise and pollution%0D%0ATraffic congestion and pollution%0D%0Aan uplift of Transport movements%0D%0AInadequate and/or safe access/egress to the premises%0D%0APedestrian and Common Users Health and Safety%0D%0AThe extension of working hours on the premises as from the previous use by Lewis and Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only%0D%0AAn inadequate transport assessement of B8 sue with specific referenc to an Inner London site%0D%0ANo Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis /">Email Lambeth planning</a> {{< /rawhtml >}}
 
 ## Issues
 
-1. The planning application is wrong and I think a tree survey is required.
+1. The planning application is wrong and I think a tree survey is rquired.
 
 - There is at least one tree on the site so the answer to Trees and Hedges is wrong.
 - There are large trees adjacent to the site that might have to be pruned so I believe the second part is wrong
 - A number of pine trees have been cut down and removed from and adjacent garden presumably in preparation for this work and this will have affected the view from Streatham Common.
 
 1. The site does regularly flood during heavy rain.
-1. The increased traffic and congestion is going to lead to loss and so change of use of adjacent Streatham Commont South.
+1. The increased traffic and congestion is going to lead to loss and so change of use of adjacent Streatham Common South.
 1. The [Land registry title register](/2023-6scs/6scs/2023-08-04_summary_of_title_SGL377507_GOV.UKa.pdf) denote two owners of the land but this application only shows one owner Nw1 IOS 1 Unit Trust.
 
 Block plan
 
-1. Does not include existing bunds nor demolitiion of existing bunds
-1. Does not include sand bagging block nor demoliton of the bagging block
+1. Does not include existing bunds nor demolition of existing bunds
+1. Does not include sand bagging block nor demolition of the bagging block
 
 ## Submitted documents
 
@@ -71,12 +96,12 @@ Block plan
 ## Heritage assesment
 
 - Inaccurate in that the yard has been in operation as a builders yard for over 200 years not 70 years.
-- Inaccurate in that there are no trees when there is clearly one tree which No 9 has communicated about at Council hearings on previous objections and to previous owners and consultants.
+- Inaccurate in that there are no trees when there is clearly one tree which No 9 has communicted about at Council hearingson previous objects and to previous owners and consultants.
 - Streatham high road to the west is not adjacent to the site. No 6 is in fact next to a nursing home and residential uses.
 - The site covers 2,3,4 not only 4 as is claimed. ![pTAL image](image.png)
-- Claims bizarrely that change to B8 will be beneficial from changing to B8 which was refused planning permission
+- Claims bizarrely that change to B8 will be beneficial from chaning to B8 which was refused planning permission
   last time.
-- Claims noise assessment shows lower sound use than current but the builders stopped a while ago so old data must be modelled.
+- Claims noise assesement shows lower sound use than current but the builders stopped a while ago so old data must be modelled.
 
 ### Usefully highlights relevant plans:
 
@@ -98,7 +123,7 @@ Important material considerations include:
 
 [Number 6 Old planning applications](static/2023-6scs/6scs/6scs_planning_1950-1997.pdf)
 
-Old applications do constrain the nuisance. It is misleading to say that there were no noise orders on previous operations as the first [noise abatement][] act was in 1960. This defines that a statutory nuisance can be due to noise or vibration. They were however not at all comprehenseive or fully enforceable.
+Old applications do constrain the nuisance. It is misleading to say that there were no noise orders on previous operations as the first [noise abatement][] act was in 1960. This defines that a statutory nuisance can be due to noise or vibration. They were however not at all comprehensive or fully enforceable.
 
 ## Noise impact
 
@@ -210,7 +235,7 @@ the internet archive.
 Monday to Friday: 07:30AM to 5PM{{< rawhtml >}}<br/>{{< /rawhtml >}}
 Saturday: 8AM to 1PM 
 
-### Large delieries
+### Large deliveries
 
 Around 2000 an injunction was obtained to prevent Lewis and Co moving large articulated lorries in and out of the builders yard.  
 This was causing danger to those using the pedestrian crossing to Streatham Common South.  So the evolved custom
@@ -220,7 +245,3 @@ their children to school.
 
 [PlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?keyVal=S59KBSBOH0G00&activeTab=summary
 [CommentPlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=S59KBSBOH0G00
-
-
-# SCECO Fighting for a better Streatham for 39 years.
-
