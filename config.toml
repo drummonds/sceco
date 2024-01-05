@@ -1,4 +1,4 @@
-baseURL = 'http://www.sceco.org.uk/'
+baseURL = 'https://sceco.netlify.app/'
 languageCode = 'en-gb'
 title = 'Streatham Commmon Enviromental CoOperative'
 theme = 'whisper'
