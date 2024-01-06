@@ -1,0 +1,5 @@
+<div class="content">
+  {{ if .Content }} {{ .Content }} {{ else }}
+  <p>{{ .Site.Params.homepage_intro }}</p>
+  {{ end }}
+</div>

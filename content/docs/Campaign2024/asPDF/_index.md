@@ -1,13 +1,11 @@
 --- 
-title: 2024 SCECO Response to 23/03943/FUL
+title: AsPDF SCECO Response to 23/03943/FUL
+layout: pdflayout
 date: 2024-01-04
 ---
 
-SCECO is a local cooperative which has been involved in the set up of the conservation area 39 years ago and 
+Sceco is a local cooperative which has been involved in the set up of the conservation area 39 years ago and 
 has been fighting tirelessly since then to preserve and enhance Streatham Common.
-
-We ask Lambeth Planning to reject this application and give residents views and consideration of the application
-itself.
 
 # The planning application
 
@@ -20,85 +18,37 @@ d. provision of a bin store.
 
 Implicitly in the supporting documentation it is for:
 a. Expanded hours of operation
-b. Expanded noise
-c. Expanded vehicle movements
+b. Expanded vehicle movements
 
 ## Change of use existing builder's yard (Sui Generis) to open storage (Use Class B8)
 
-### Class B8
-
-Class B8 is defined in [The Town and Country Planning (Use Classes) Order 1987](https://www.legislation.gov.uk/uksi/1987/764/contents/made) **Use for storage or as a distribution centre.**
+Class B8 is for storage or as a distribution centre.  It is defined in [The Town and Country Planning (Use Classes) Order 1987](https://www.legislation.gov.uk/uksi/1987/764/contents/made) **Use for storage or as a distribution centre.**
 
 It is not been subsequently modified up to [Use Classes Order of 2020](https://www.legislation.gov.uk/uksi/2020/757/made).
 
-The [Planing Geek](https://www.planninggeek.co.uk/use-class/use-class-b/) also has some more colour on what is possible an the case law for class B8 is:
-```
-The judgment in Newbury DC v SoS for the Environment (1981) A.C.578, states that “…storage does not have to be part of the businesses, and that as long as storage was the principal use it could be a USe Class B8 use”. Appeals have been won where classic cars were stored in a unit away from a domestic dwelling.  It is still Use Class B8, despite it looking like a garage.  
-
-Use Class B8 could also be a warehouse used for distribution. Screwfix with a trade counter would fall under B8. 
-
-If an office or shop is attached to the warehouse or distribution centre then that shop or office would also be use Class B8 as it will be ancillary to the main use. 
-```
-
-#### Permitted Change of use
-
 [Savills has a nice document](https://www.savills.co.uk/resources-and-tools/guide-to-use-classes-order-in-england/guide-to-use-classes-order-england-from-1-sep-2020.pdf) showing what further changes are then allowed:
 
-- Permitted change to former Class B1
+- Permitted change to former Class B1^
 - Permitted change to Class C3 subject to total floorspace being no greater than 500sqm of
 floorspace in the building*
 - Temporary permitted change (2 years) to a state funded school
 
-### Use as open storage
-
 [Carter Jonas](https://www.carterjonas.co.uk/commercial/open-storage/classifying-sites) has a description of what open storage is for:
 
-```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities. 
-...
-...
-Modern urban distribution warehouses are designed to maximise the size of the building relative to the site and in many cases site coverage is now reaching 65% or more. This leaves minimal external space for HGV movement and parking; the large fleet of vans often required to carry out last mile home deliveries; or other service uses such as staff parking and general storage. Parcel operators, for example, would normally want to operate with a site cover of 25%-35%. As a result, there has been a huge increase in requirements for urban open storage facilities to cater for these ‘overspill’ parking and storage needs.
-```
-
-
-#### SCECO Opinion concerns on change of use
+```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities. ```
 
 This seems wholly inappropriate for a long established conservation area.
 
-### Relevant development plans and frameworks:
+{{ rawhtml }}<hr/>{{ /rawhtml }}
 
-The development plan:
-
-- Lambeth Local Plan (2021);
-- The London Plan (2021).
-
-The Development Plan is supported by a range of SPDs:
-
-- The Lambeth Design Guide SPD (Part 1 – Introducing Lambeth) (August 2023)
-- The Lambeth Design Guide SPD (Part 2 – Advice for All Developments (August 2023).
-
-Material Considerations:
-
-- [National Planning Policy Framework](https://www.gov.uk/guidance/national-planning-policy-framework) (September 2023)
-- [Planning Practice Guidance (PPG)](https://www.gov.uk/government/collections/planning-practice-guidance).
-```
-
-# Historic Environment
-
-The [Planning Practice Guidance has guidance on conserving the historic environment](https://www.gov.uk/guidance/conserving-and-enhancing-the-historic-environment)
-
-
-
-A listed build (Number 9 Streatham Common South)
-
-# Reasons for rejection of this planning application
-
-
-{{< rawhtml >}}<hr/>{{< /rawhtml >}}
-
-
+1. Make a comment on the planning application [23/03943/FUL][CommentPlanningApplication2023]
+1. You may have sign in or register for mylambeth
+1. Select commenter type if neighbour, public or other
+1. Select stance **Object**
+1. Add your own comment or could use the following draft objections:
 
 - Contravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990
-- The proposal is with the curtilage of a listed building, No 9 Streatham Common South
+- The proposal is with the curtiledge of a listed building, No 9 Streatham Common South
 - Essentially 24 x 7 operation from limited hours when operated as a builders yard.
 - Noise and pollution
 - Traffic Congestion and Pollution
@@ -109,6 +59,9 @@ A listed build (Number 9 Streatham Common South)
 - An inadequate transport assesement of B8 sue with specific referenc to an Inner London site
 - No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis 
 
+## Mailing link
+
+{{< rawhtml >}} <a href="mailto:planning@lambeth.gov.uk?subject=Objection to planning application 23/03943/FUL&body=REASONS FOR OBJECTION%0D%0AContravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990%0D%0AThe proposal is by the curtilage of a listed building, No 9 Streatham Common South%0D%0AEssentially 24 x 7 operation from limited hours when operated as a builders' yard.%0D%0ANoise and pollution%0D%0ATraffic congestion and pollution%0D%0Aan uplift of Transport movements%0D%0AInadequate and/or safe access/egress to the premises%0D%0APedestrian and Common Users Health and Safety%0D%0AThe extension of working hours on the premises as from the previous use by Lewis and Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only%0D%0AAn inadequate transport assessement of B8 sue with specific referenc to an Inner London site%0D%0ANo Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis /">Email Lambeth planning</a> {{< /rawhtml >}}
 
 ## Issues
 
@@ -181,7 +134,7 @@ Lewis by custom and by agreement with the council operated deliveries from 8am t
 
 So although 1.1.2 states that "it is understood the extant planning permission places not restictions on its use, in terms operation hours or noise emissions" That is clearly not true.
 
-No real data was available so a modelling exercise was undertaken.
+No real data was available so a modelling excercise was undertaken.
 
 1.14 instead of betterment is planning to make worse the hours from 8:00 to 17:00 Mon to Fri to 7:00 to 19:00 Monday to Saturday 09:00 to 18:00 Sundays and Bank holidays.
 
