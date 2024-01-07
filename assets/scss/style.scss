@@ -49,3 +49,11 @@ body {
     padding-left: $grid-gutter-width;
     padding-right: $grid-gutter-width;
 }
+
+.text-image img {
+    float: right;
+}
+
+.action-button {
+    text-align: center;
+}

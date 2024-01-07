@@ -1,0 +1,19 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<pre>{{ debug.Dump "layouts/_default/toclayout.html" }}</pre>
+<h1 class="title">Table of Contents</h1>
+<div class="content {{if .Site.Params.enable_anchor_link}}{{ "anchor-link-enabled" }}{{ end }}">
+    <aside>
+      {{ .TableOfContents }}
+      <hr/>
+    </aside>
+    <article>
+  {{.Content}}
+  </article>
+</div>
+</div>
+
+{{ end }}

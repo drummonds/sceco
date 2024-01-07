@@ -3,26 +3,46 @@ title: AsPDF SCECO Response to 23/03943/FUL
 layout: pdflayout
 date: 2024-01-04
 ---
+[23/03943/FUL][PlanningApplication2023]
 
 SCECO is a local cooperative which has been involved in the set up of the conservation area 39 years ago and
 has been fighting tirelessly since then to preserve and enhance Streatham Common.
 
 We ask Lambeth Planning to reject this application and give residents views and consideration of the application
-itself.
+itself.  We hae not had sufficient time due to this application being posting during the Christmas period to give
+a thorough response but have done as well as we can in the given time frame.
 
 # The planning application
 
 The planning application 23/03943/FUL is explicitly for:
 
-a. Change of use from existing builder's yard (Sui Generis) to open storage (Use Class B8)
-b. provision of on-site parking
-c. provision of cycle parking
-d. provision of a bin store.
+- Change of use from existing builder's yard (Sui Generis) to open storage (Use Class B8)
+- provision of on-site parking
+- provision of cycle parking
+- provision of a bin store.
 
 Implicitly in the supporting documentation it is for:
-a. Expanded hours of operation
-b. Expanded noise
-c. Expanded vehicle movements
+
+- Expanded hours of operation
+- Expanded noise
+- Expanded vehicle movements
+
+## Submitted documents
+
+This is a list of the submitted documents as of 2024-01-07.
+
+- [Application form](/2023-6scs/6scs/APPLICATION_FORM_-_WITHOUT_PERSONAL_DATA-3142896.pdf) Inaccurate
+- [Block Plan](/2023-6scs/6scs/BLOCK_PLAN_OF_THE_SITE-3142904.pdf)
+- [Community Infrastructure Levy](/2023-6scs/6scs/COMMUNITY_INFRASTRUCTURE_LEVY_-_COMPLETED_FORM-3142899.pdf)
+- [Elevations](/2023-6scs/6scs/EXISTING_AND_PROPOSED_ELEVATIONS___SECTIONS-3142900.pdf)
+- [Site plan](/2023-6scs/6scs/EXISTING_SITE_PLAN-3142901.pdf)
+- [Heritage Assessment][] Also inaccurate due to trees and bagging bund.
+- [Location plan](/2023-6scs/6scs/LOCATION_PLAN-3142905.pdf)
+- [Noise impact assessment](/2023-6scs/6scs/NOISE_IMPACT_ASSESSMENT-3142902.pdf)
+- [Noise management plan](/2023-6scs/6scs/NOISE_MANAGEMENT_PLAN-3142903.pdf)
+- [Transport statement](/2023-6scs/6scs/TRANSPORT_STATEMENT-3142906.pdf)
+- [Travel Plan Statement](/2023-6scs/6scs/TRAVEL_PLAN_STATEMENT-3142907.pdf)
+
 
 ## Change of use existing builder's yard (Sui Generis) to open storage (Use Class B8)
 
@@ -34,13 +54,13 @@ It is not been subsequently modified up to [Use Classes Order of 2020](https://w
 
 The [Planing Geek](https://www.planninggeek.co.uk/use-class/use-class-b/) also has some more colour on what is possible an the case law for class B8 is:
 
-```
+{{< r >}}<blockquote>
 The judgment in Newbury DC v SoS for the Environment (1981) A.C.578, states that “…storage does not have to be part of the businesses, and that as long as storage was the principal use it could be a USe Class B8 use”. Appeals have been won where classic cars were stored in a unit away from a domestic dwelling.  It is still Use Class B8, despite it looking like a garage.
 
 Use Class B8 could also be a warehouse used for distribution. Screwfix with a trade counter would fall under B8.
 
 If an office or shop is attached to the warehouse or distribution centre then that shop or office would also be use Class B8 as it will be ancillary to the main use.
-```
+</blockquote> {{< /r>}}
 
 #### Permitted Change of use
 
@@ -48,18 +68,38 @@ If an office or shop is attached to the warehouse or distribution centre then th
 
 - Permitted change to former Class B1
 - Permitted change to Class C3 subject to total floorspace being no greater than 500sqm of
-  floorspace in the building\*
+  floorspace in the building
 - Temporary permitted change (2 years) to a state funded school
 
 ### Use as open storage
 
 [Carter Jonas](https://www.carterjonas.co.uk/commercial/open-storage/classifying-sites) has a description of what open storage is for:
 
-```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities.
+{{< r >}}<blockquote>Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities.
 ...
 ...
 Modern urban distribution warehouses are designed to maximise the size of the building relative to the site and in many cases site coverage is now reaching 65% or more. This leaves minimal external space for HGV movement and parking; the large fleet of vans often required to carry out last mile home deliveries; or other service uses such as staff parking and general storage. Parcel operators, for example, would normally want to operate with a site cover of 25%-35%. As a result, there has been a huge increase in requirements for urban open storage facilities to cater for these ‘overspill’ parking and storage needs.
-```
+</blockquote> {{< /r>}}
+
+### B8 usage causing chaos
+
+{{< r >}}<div class="text-image"><img alt="Chaos of using builders yard as Class B8" width="200px" src="/media/2023/BuildersYardAsClassB82023-12-01a.jpg" /></div> {{< /r >}}
+The owners have already demonstrated the chaos caused by allowing change of use to B8.  From 2023-11-28 to 2023-12-06 the site was used as a waste dumping site (Typical B8 usage). 
+
+Followed by a very noisy and vibration intensive waste sorting site. 
+
+The illegal incursion was caused by a lack of security on the site.  This shows a real world example
+of how the site could operate as an open access storage facility.
+
+- Poor security
+- Horrendous traffic 
+- Complete mess
+- Heavy equipment and containers
+- Due to the geology of site being based on clay.  When wet the concrete floor acts as a seismic speaker and buildings around vibrate as heavy thuds occur on the concrete floor.  Eg use of the digger to impact and scrape rubbish and the arrival and collection of the large skips.
+
+All of this is to the detriment of the planning social objectives of supporting strong and vibrant communities
+and of the environmental objectives of enhancing our historic environment.
+
 
 #### SCECO Opinion concerns on change of use
 
@@ -69,7 +109,7 @@ This seems wholly inappropriate for a long established conservation area.
 
 The development plan:
 
-- [Lambeth Local Plan (2021)](https://www.lambeth.gov.uk/planning-building-control/planning-policy-guidance/lambeth-local-plan-2021) as PDF: {{< rawhtml >}}<a href="https://www.lambeth.gov.uk/sites/default/files/2021-09/Lambeth%20Local%20Plan%202021.pdf"><img alt="Lambeth local plan as pdf" width="32px" src="/icons/pdf.svg" /></a> {{< /rawhtml >}}
+- [Lambeth Local Plan (2021)](https://www.lambeth.gov.uk/planning-building-control/planning-policy-guidance/lambeth-local-plan-2021) as PDF: {{< r >}}<a href="https://www.lambeth.gov.uk/sites/default/files/2021-09/Lambeth%20Local%20Plan%202021.pdf"><img alt="Lambeth local plan as pdf" width="32px" src="/icons/pdf.svg" /></a> {{< /r >}}
 - The London Plan (2021).
 
 The Development Plan is supported by a range of SPDs:
@@ -82,11 +122,24 @@ Material Considerations:
 - [National Planning Policy Framework](https://www.gov.uk/guidance/national-planning-policy-framework) (September 2023)
 - [Planning Practice Guidance (PPG)](https://www.gov.uk/government/collections/planning-practice-guidance).
 
+# Net gain of economic, social or environmental objectives (Betterment)
+
+Betterment as referred to in the applicants [Heritage Assessment] is not defined in the National planning framework.  Instead the National Planning Framework talks of:
+
+{{< r >}}<blockquote>8. Achieving sustainable development means that the planning system has three
+overarching objectives, which are interdependent and need to be pursued in
+mutually supportive ways (so that opportunities can be taken to secure net gains
+across each of the different objectives):</blockquote> {{< /r>}}
+
+So the applicants net gain will be considered in terms of these objectives.
+
+
 # Historic Environment
 
 The [Planning Practice Guidance has guidance on conserving the historic environment](https://www.gov.uk/guidance/conserving-and-enhancing-the-historic-environment)
 
-Number 9 Streatham Common is Grade 2 listed and the curtilage is a boundary will with number 6 Streatham Common South.
+Number 9 Streatham Common is Grade 2 listed and the curtilage is partly defined by a boundary wall with
+ number 6 Streatham Common South.
 
 Other buildings in the neighbourhood are the [locally listed](https://www.lambeth.gov.uk/sites/default/files/2022-01/local_heritage_list_19.01.22.pdf)
 
@@ -105,7 +158,11 @@ Other buildings in the neighbourhood are the [locally listed](https://www.lambet
 ## Reasons that the application is in error and should be withdrawn
 
 - The planning application refers to a single owner whereas the title deeds refer to two owners.
--
+
+
+[Heritage Assessment]: /2023-6scs/6scs/INC._HERITAGE_ASSESSMENT-3142908.pdf
+[PlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?keyVal=S59KBSBOH0G00&activeTab=summary
+[CommentPlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=S59KBSBOH0G00
 
 {{< rawhtml >}}<hr/>{{< /rawhtml >}}
 
@@ -117,7 +174,7 @@ Other buildings in the neighbourhood are the [locally listed](https://www.lambet
 - an uplift of Transport movements
 - Inadequate and/or safe access/egress to the premises
 - Pedestrian and Common Users Health and Safety
-- The extension of working hours on the premises as from the previous use by Lewis & Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only
+- The extension of working hours on the premises as from the previous use by Lewis & Co Builders Merchants whose permitted hours of work were 7:30am to 5pm Monday to Friday and 8am to 1pm on Saturday only
 - An inadequate transport assessment of B8 sue with specific referenc to an Inner London site
 - No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis
 
@@ -138,19 +195,7 @@ Block plan
 1. Does not include existing bunds nor demolition of existing bunds
 1. Does not include sand bagging block nor demolition of the bagging block
 
-## Submitted documents
 
-- [Application form](/2023-6scs/6scs/APPLICATION_FORM_-_WITHOUT_PERSONAL_DATA-3142896.pdf) Inaccurate
-- [Block Plan](/2023-6scs/6scs/BLOCK_PLAN_OF_THE_SITE-3142904.pdf)
-- [Community Infrastructure Levy](/2023-6scs/6scs/COMMUNITY_INFRASTRUCTURE_LEVY_-_COMPLETED_FORM-3142899.pdf)
-- [Elevations](/2023-6scs/6scs/EXISTING_AND_PROPOSED_ELEVATIONS___SECTIONS-3142900.pdf)
-- [Site plan](/2023-6scs/6scs/EXISTING_SITE_PLAN-3142901.pdf)
-- [Heritage Assesment](/2023-6scs/6scs/INC._HERITAGE_ASSESSMENT-3142908.pdf) Also inaccurate due to trees and bagging bund.
-- [Location plan](/2023-6scs/6scs/LOCATION_PLAN-3142905.pdf)
-- [Noise impact assessment](/2023-6scs/6scs/NOISE_IMPACT_ASSESSMENT-3142902.pdf)
-- [Noise management plan](/2023-6scs/6scs/NOISE_MANAGEMENT_PLAN-3142903.pdf)
-- [Transport statement](/2023-6scs/6scs/TRANSPORT_STATEMENT-3142906.pdf)
-- [Travel Plan Statement](/2023-6scs/6scs/TRAVEL_PLAN_STATEMENT-3142907.pdf)
 
 ## Heritage assessment
 
@@ -168,11 +213,32 @@ Block plan
 
 Old applications do constrain the nuisance. It is misleading to say that there were no noise orders on previous operations as the first [noise abatement][] act was in 1960. This defines that a statutory nuisance can be due to noise or vibration. They were however not at all comprehensive or fully enforceable.
 
+## Lewis Hours of Operation
+
+The hours of opening of Lews and Co were recorded on their web site update of May 11th, 2015 and stored in
+the internet archive.
+[http://www.lewisandcompany.eu/](https://web.archive.org/web/20150511162443/http://www.lewisandcompany.eu/)
+
+![Lewis and Company logo](lewis-and-company-streatham-logo.png) Lewis and Co (Streatham) Ltd {{< rawhtml >}}<br/>{{< /rawhtml >}}
+020 8679 2494{{< rawhtml >}}<br/>{{< /rawhtml >}}
+6 Streatham Common South, London, SW16 3BT{{< rawhtml >}}<br/>{{< /rawhtml >}}
+Monday to Friday: 07:30AM to 5PM{{< rawhtml >}}<br/>{{< /rawhtml >}}
+Saturday: 8AM to 1PM
+
+### Large deliveries
+
+Around 2000 an injunction was obtained to prevent Lewis and Co moving large articulated lorries in and out of the builders yard.  
+This was causing danger to those using the pedestrian crossing to Streatham Common South. So the evolved custom
+was to load and unload articulated trucks with forklifts with the lorries parked on what became double yellow lines
+opposite the park. The deliveries would not start until about 8am but still interfered with parents taking
+their children to school.
+
+
 ## Noise impact
 
 [noise abatement]: https://www.legislation.gov.uk/ukpga/1960/68/contents/enacted
 
-Lewis by custom and by agreement with the council operated deliveries from 8am to 5pm Mon to Fri and from 8am to 12:00 on Saturday. The yard opened at 7am. This is recognised in the 1950's planning application as **"No nuisance or annoyance being caused which may injuriously affect the ameneties of the surround properties"**
+Lewis by custom and by agreement with the council operated deliveries from 7:30am to 5pm Monday to Friday and 8am to 1pm on Saturday. The yard opened at 7am. This is recognised in the 1950's planning application as **"No nuisance or annoyance being caused which may injuriously affect the ameneties of the surround properties"**
 
 So although 1.1.2 states that "it is understood the extant planning permission places not restictions on its use, in terms operation hours or noise emissions" That is clearly not true.
 
@@ -191,13 +257,13 @@ In section 3.3.6 they average noise over an hour.
 5.0 refers to a completely different application.
 
 The use of a builders yard had 2 and then fork lift truck and a couple of lorries used for deliveries.
-The numbers used by the consultants seem vastly bumped up for preovious use eg reversing alarm, assume more van movements by a tiny amount, don't do like for like forklift measurements
+The numbers used by the consultants seem vastly bumped up for previous use eg reversing alarm, assume more van movements by a tiny amount, don't do like for like forklift measurements
 
-The noise managment plan contradicts the noise modelling by allowing gas or electric trucks rather than electric.
+The noise management plan contradicts the noise modelling by allowing gas or electric trucks rather than electric.
 
 ## Transport statement
 
-The transport stattement has spelling mistakes eg page 2
+The transport statement has spelling mistakes eg page 2
 
 The transport statement seems to use different data on the vehicle movements to the noise statement.
 The noise impact has cherry picked data from a video which has not been provided and the transport statement
@@ -275,25 +341,4 @@ construction works and operation of the site to be Air Quality Neutral or Air Qu
 
 _Still relevant?_
 
-## Lewis Hours of Operation
 
-The hours of opening of Lews and Co were recorded on their web site update of May 11th, 2015 and stored in
-the internet archive.
-[http://www.lewisandcompany.eu/](https://web.archive.org/web/20150511162443/http://www.lewisandcompany.eu/)
-
-![Lewis and Company logo](lewis-and-company-streatham-logo.png) Lewis and Co (Streatham) Ltd {{< rawhtml >}}<br/>{{< /rawhtml >}}
-020 8679 2494{{< rawhtml >}}<br/>{{< /rawhtml >}}
-6 Streatham Common South, London, SW16 3BT{{< rawhtml >}}<br/>{{< /rawhtml >}}
-Monday to Friday: 07:30AM to 5PM{{< rawhtml >}}<br/>{{< /rawhtml >}}
-Saturday: 8AM to 1PM
-
-### Large deliveries
-
-Around 2000 an injunction was obtained to prevent Lewis and Co moving large articulated lorries in and out of the builders yard.  
-This was causing danger to those using the pedestrian crossing to Streatham Common South. So the evolved custom
-was to load and unload articulated trucks with forklifts with the lorries parked on what became double yellow lines
-opposite the park. The deliveries would not start until about 8am but still interfered with parents taking
-their children to school.
-
-[PlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?keyVal=S59KBSBOH0G00&activeTab=summary
-[CommentPlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=S59KBSBOH0G00
