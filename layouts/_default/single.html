@@ -3,7 +3,6 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
-<pre>{{ debug.Dump "layouts/_default.html/single.html" }}</pre>
 <h1 class="title">{{.Title}}</h1>
 <div class="content {{if .Site.Params.enable_anchor_link}}{{ "anchor-link-enabled" }}{{ end }}">
   {{.Content}}
