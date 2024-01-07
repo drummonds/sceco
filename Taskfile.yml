@@ -8,7 +8,7 @@ tasks:
       
   dupes:
     cmds:
-      - cp -rf ./content/docs/Campaign2024/_index.md ./content/docs/Campaign2024/as_pdf.md
+      - cp -rf ./content/docs/Campaign2024/campaign.md ./content/docs/Campaign2024/as_pdf.md
       - sed -i 's/title\:\ 2024\ SCECO/title\:\ AsPDF\ SCECO/' ./content/docs/Campaign2024/as_pdf.md
       - sed -i '2a layout\:\ pdflayout' ./content/docs/Campaign2024/as_pdf.md
       #./content/docs/Campaign2023/_index.md
