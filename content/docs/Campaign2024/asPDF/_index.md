@@ -173,7 +173,7 @@ Reasons for Refusal for [22/03283/FUL](https://planning.lambeth.gov.uk/online-ap
    objectives. As such, the proposal is contrary to London Plan (2021) policies E2C and E7A and Lambeth Local Plan
    2020-2035 (2021) policy ED4.
 
-_Still a valid objection due to the lost of builder's yard use. It has not been demonstrated that the planned operation would meet the council's employement objectives._
+_Still a valid objection due to the lost of builder's yard use. It has not been demonstrated that the planned operation would meet the council's employment objectives._
 
 2. The applicant has failed to demonstrate how the proposed B8 open storage (in part or sole use) would
    operate on a completely vacant site without the basic amenities for workers. As such the proposals conflict with

@@ -1,9 +1,9 @@
---- 
+---
 title: 2024 SCECO Response to 23/03943/FUL
 date: 2024-01-04
 ---
 
-SCECO is a local cooperative which has been involved in the set up of the conservation area 39 years ago and 
+SCECO is a local cooperative which has been involved in the set up of the conservation area 39 years ago and
 has been fighting tirelessly since then to preserve and enhance Streatham Common.
 
 We ask Lambeth Planning to reject this application and give residents views and consideration of the application
@@ -15,8 +15,8 @@ The planning application 23/03943/FUL is explicitly for:
 
 a. Change of use from existing builder's yard (Sui Generis) to open storage (Use Class B8)
 b. provision of on-site parking
-c. provision of cycle parking 
-d. provision of a bin store.  
+c. provision of cycle parking
+d. provision of a bin store.
 
 Implicitly in the supporting documentation it is for:
 a. Expanded hours of operation
@@ -32,12 +32,13 @@ Class B8 is defined in [The Town and Country Planning (Use Classes) Order 1987](
 It is not been subsequently modified up to [Use Classes Order of 2020](https://www.legislation.gov.uk/uksi/2020/757/made).
 
 The [Planing Geek](https://www.planninggeek.co.uk/use-class/use-class-b/) also has some more colour on what is possible an the case law for class B8 is:
+
 ```
-The judgment in Newbury DC v SoS for the Environment (1981) A.C.578, states that “…storage does not have to be part of the businesses, and that as long as storage was the principal use it could be a USe Class B8 use”. Appeals have been won where classic cars were stored in a unit away from a domestic dwelling.  It is still Use Class B8, despite it looking like a garage.  
+The judgment in Newbury DC v SoS for the Environment (1981) A.C.578, states that “…storage does not have to be part of the businesses, and that as long as storage was the principal use it could be a USe Class B8 use”. Appeals have been won where classic cars were stored in a unit away from a domestic dwelling.  It is still Use Class B8, despite it looking like a garage.
 
-Use Class B8 could also be a warehouse used for distribution. Screwfix with a trade counter would fall under B8. 
+Use Class B8 could also be a warehouse used for distribution. Screwfix with a trade counter would fall under B8.
 
-If an office or shop is attached to the warehouse or distribution centre then that shop or office would also be use Class B8 as it will be ancillary to the main use. 
+If an office or shop is attached to the warehouse or distribution centre then that shop or office would also be use Class B8 as it will be ancillary to the main use.
 ```
 
 #### Permitted Change of use
@@ -46,19 +47,18 @@ If an office or shop is attached to the warehouse or distribution centre then th
 
 - Permitted change to former Class B1
 - Permitted change to Class C3 subject to total floorspace being no greater than 500sqm of
-floorspace in the building*
+  floorspace in the building\*
 - Temporary permitted change (2 years) to a state funded school
 
 ### Use as open storage
 
 [Carter Jonas](https://www.carterjonas.co.uk/commercial/open-storage/classifying-sites) has a description of what open storage is for:
 
-```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities. 
+```Traditionally, open storage has been seen as low-quality space dedicated to scrap metal recycling, waste disposal or low-end HGV parking, however needs and growth of demand have transformed these often overlooked industrial lands into high quality storage spaces that can host high-end services and facilities.
 ...
 ...
 Modern urban distribution warehouses are designed to maximise the size of the building relative to the site and in many cases site coverage is now reaching 65% or more. This leaves minimal external space for HGV movement and parking; the large fleet of vans often required to carry out last mile home deliveries; or other service uses such as staff parking and general storage. Parcel operators, for example, would normally want to operate with a site cover of 25%-35%. As a result, there has been a huge increase in requirements for urban open storage facilities to cater for these ‘overspill’ parking and storage needs.
 ```
-
 
 #### SCECO Opinion concerns on change of use
 
@@ -68,7 +68,7 @@ This seems wholly inappropriate for a long established conservation area.
 
 The development plan:
 
-- Lambeth Local Plan (2021);
+- [Lambeth Local Plan (2021)](https://www.lambeth.gov.uk/planning-building-control/planning-policy-guidance/lambeth-local-plan-2021) as PDF: {{< rawhtml >}}<a href="https://www.lambeth.gov.uk/sites/default/files/2021-09/Lambeth%20Local%20Plan%202021.pdf"><img alt="Lambeth local plan as pdf" width="32px" src="/icons/pdf.svg" /></a> {{< /rawhtml >}}
 - The London Plan (2021).
 
 The Development Plan is supported by a range of SPDs:
@@ -80,22 +80,33 @@ Material Considerations:
 
 - [National Planning Policy Framework](https://www.gov.uk/guidance/national-planning-policy-framework) (September 2023)
 - [Planning Practice Guidance (PPG)](https://www.gov.uk/government/collections/planning-practice-guidance).
-```
 
 # Historic Environment
 
 The [Planning Practice Guidance has guidance on conserving the historic environment](https://www.gov.uk/guidance/conserving-and-enhancing-the-historic-environment)
 
+Number 9 Streatham Common is Grade 2 listed and the curtilage is a boundary will with number 6 Streatham Common South.
 
+Other buildings in the neighbourhood are the [locally listed](https://www.lambeth.gov.uk/sites/default/files/2022-01/local_heritage_list_19.01.22.pdf)
 
-A listed build (Number 9 Streatham Common South)
+- Ripley House 10 Streatham Common South
+- 11 Streatham Common South
+- 13 Streatham Common South
+- 14 Streatham Common South
 
 # Reasons for rejection of this planning application
 
+- The applicant has failed to provide a Tree Survey as is required
+- The applicant has filed to provide a Sustainable Urban Drainage System to deal with local flooding as per second C 2.92
+- The applicant has failed to enhance the quality of open space D 5
+- The loss of the existing builder’s yard use would compromise the council’s employment objectives. As such, the proposal is contrary to London Plan (2021) policies E2C and E7A and Lambeth Local Plan 2020-2035 (2021) policy ED4.
+
+## Reasons that the application is in error and should be withdrawn
+
+- The planning application refers to a single owner whereas the title deeds refer to two owners.
+-
 
 {{< rawhtml >}}<hr/>{{< /rawhtml >}}
-
-
 
 - Contravention of the London Borough of Lambeth's obligations for the preservation and enhancement of a Conservation area under Sections 72 (1) and (2) of the Planning (listed Buildings and Conservation Areas) Act 1990
 - The proposal is with the curtilage of a listed building, No 9 Streatham Common South
@@ -105,14 +116,13 @@ A listed build (Number 9 Streatham Common South)
 - an uplift of Transport movements
 - Inadequate and/or safe access/egress to the premises
 - Pedestrian and Common Users Health and Safety
-- The extension of working hours on the premises as from the previous use by Lewis & Co  Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only
-- An inadequate transport assesement of B8 sue with specific referenc to an Inner London site
-- No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis 
-
+- The extension of working hours on the premises as from the previous use by Lewis & Co Builders Merchants whose permitted hours of work were 8am to 5pm Monday to Friday and 8am to noon on Saturday only
+- An inadequate transport assessment of B8 sue with specific referenc to an Inner London site
+- No Trade is noted for the site although HGV's are shown on the Transport Appraisal Swept Path Analysis
 
 ## Issues
 
-1. The planning application is wrong and I think a tree survey is rquired.
+1. The planning application is wrong and I think a tree survey is required.
 
 - There is at least one tree on the site so the answer to Trees and Hedges is wrong.
 - There are large trees adjacent to the site that might have to be pruned so I believe the second part is wrong
@@ -141,7 +151,7 @@ Block plan
 - [Transport statement](/2023-6scs/6scs/TRANSPORT_STATEMENT-3142906.pdf)
 - [Travel Plan Statement](/2023-6scs/6scs/TRAVEL_PLAN_STATEMENT-3142907.pdf)
 
-## Heritage assesment
+## Heritage assessment
 
 - Inaccurate in that the yard has been in operation as a builders yard for over 200 years not 70 years.
 - Inaccurate in that there are no trees when there is clearly one tree which No 9 has communicted about at Council hearingson previous objects and to previous owners and consultants.
@@ -149,23 +159,7 @@ Block plan
 - The site covers 2,3,4 not only 4 as is claimed. ![pTAL image](image.png)
 - Claims bizarrely that change to B8 will be beneficial from chaning to B8 which was refused planning permission
   last time.
-- Claims noise assesement shows lower sound use than current but the builders stopped a while ago so old data must be modelled.
-
-### Usefully highlights relevant plans:
-
-```
-The Development Plan for the purposes of this application comprises:
-• Lambeth Local Plan (2021);
-• The London Plan (2021).
-Supplementary Planning Design (SPDs):
-The Development Plan is supported by a range of SPDs. Relevant SPDs include:
-• The Lambeth Design Guide SPD (Part 1 – Introducing Lambeth) (August 2023); and
-• The Lambeth Design Guide SPD (Part 2 – Advice for All Developments (August 2023).
-Material Considerations
-Important material considerations include:
-• National Planning Policy Framework (September 2023); and
-• Planning Practice Guidance (PPG).
-```
+- Claims noise assessment shows lower sound use than current but the builders stopped a while ago so old data must be modelled.
 
 ## Old planning applications
 
@@ -177,7 +171,7 @@ Old applications do constrain the nuisance. It is misleading to say that there w
 
 [noise abatement]: https://www.legislation.gov.uk/ukpga/1960/68/contents/enacted
 
-Lewis by custom and by agreement with the council operated deliveries from 8am to 5pm Mon to Fri and from 8am to 12:00 on Saturday. The yard opened at 7am. This is recognised in the 1950's planning application as **"No nuisance or annoyance being caused whih may injuriously affect the ameneties of the surround properties"**
+Lewis by custom and by agreement with the council operated deliveries from 8am to 5pm Mon to Fri and from 8am to 12:00 on Saturday. The yard opened at 7am. This is recognised in the 1950's planning application as **"No nuisance or annoyance being caused which may injuriously affect the ameneties of the surround properties"**
 
 So although 1.1.2 states that "it is understood the extant planning permission places not restictions on its use, in terms operation hours or noise emissions" That is clearly not true.
 
@@ -220,7 +214,7 @@ Reasons for Refusal for [22/03283/FUL](https://planning.lambeth.gov.uk/online-ap
    objectives. As such, the proposal is contrary to London Plan (2021) policies E2C and E7A and Lambeth Local Plan
    2020-2035 (2021) policy ED4.
 
-_Still a valid objection due to the lost of builder's yard use. It has not been demonstrated that the planned operation would meet the council's employement objectives._
+_Still a valid objection due to the lost of builder's yard use. It has not been demonstrated that the planned operation would meet the council's employment objectives._
 
 2. The applicant has failed to demonstrate how the proposed B8 open storage (in part or sole use) would
    operate on a completely vacant site without the basic amenities for workers. As such the proposals conflict with
@@ -239,7 +233,7 @@ _Still a valid reason_
    would harm neighbouring amenity in respect of privacy, outlook and noise. As such the proposal fails to comply
    with Lambeth Local Plan 2020-2035 (2021) policy Q2.
 
-_Perhaps these grounds have been mitigated by the succeeding approved plan to demolish some of the buildings._
+_Perhaps these grounds have been mitigated by the preceeding approved plan to demolish some of the buildings._
 
 5. The proposed operating hours and absence of a Noise Management Plan would result in the proposal
    failing to ensure that noise and other nuisances will be managed and mitigated in accordance with London Plan
@@ -259,36 +253,45 @@ _These grounds are still valid and not mitigated by the ficitious Noise Manageme
    strategic level, are fully assessed. The proposal would therefore fail to comply with London Plan (2021) policy T4
    and Lambeth Local Plan 2020-2035 (2021) policy T1.
 
+   _A travel plan has been provided but it is inadequate._
+
 8. The applicant has not agreed to the recommended condition requiring an Operational Management Plan
    detailing the use of the proposed on-site car parking spaces. In addition, the applicant has not agreed for the use
    to be permit free following the introduction of a future Controlled Parking Zone (CPZ) in the area. As such the
    proposal fails to demonstrate compliance with London Plan (2021) policy T6 and Lambeth Local Plan 2020-2035
    (2021) policy T6 which require a reduction in car ownership and private car trips.
 
+   _Still current?_
+
 9. The proposals fail to provide details on the arrangements for refuse and recycling storage or cycle storage.
    The proposed empty site would not allow for structures which provide covered and secure storage for waste and
    cycle parking and therefore failed to comply with Lambeth Local Plan 2020-2025 (2021) policies Q5 and Q12.
-   10 The proposal fails to demonstrate compliance with London Plan 2021 policy SI 1 which requires the
-   construction works and operation of the site to be Air Quality Neutral or Air Quality Positive.
+
+   _Cycle and bin storage has been addressed._
+
+10 The proposal fails to demonstrate compliance with London Plan 2021 policy SI 1 which requires the
+construction works and operation of the site to be Air Quality Neutral or Air Quality Positive.
+
+_Still relevant?_
 
 ## Lewis Hours of Operation
 
-The hours of opening of Lews and Co were recorded on their web site update of May 11th, 2015 and stored in 
-the internet archive. 
+The hours of opening of Lews and Co were recorded on their web site update of May 11th, 2015 and stored in
+the internet archive.
 [http://www.lewisandcompany.eu/](https://web.archive.org/web/20150511162443/http://www.lewisandcompany.eu/)
 
 ![Lewis and Company logo](lewis-and-company-streatham-logo.png) Lewis and Co (Streatham) Ltd {{< rawhtml >}}<br/>{{< /rawhtml >}}
 020 8679 2494{{< rawhtml >}}<br/>{{< /rawhtml >}}
 6 Streatham Common South, London, SW16 3BT{{< rawhtml >}}<br/>{{< /rawhtml >}}
 Monday to Friday: 07:30AM to 5PM{{< rawhtml >}}<br/>{{< /rawhtml >}}
-Saturday: 8AM to 1PM 
+Saturday: 8AM to 1PM
 
 ### Large deliveries
 
 Around 2000 an injunction was obtained to prevent Lewis and Co moving large articulated lorries in and out of the builders yard.  
-This was causing danger to those using the pedestrian crossing to Streatham Common South.  So the evolved custom
+This was causing danger to those using the pedestrian crossing to Streatham Common South. So the evolved custom
 was to load and unload articulated trucks with forklifts with the lorries parked on what became double yellow lines
-opposite the park.  The deliveries would not start until about 8am but still interfered with parents taking
+opposite the park. The deliveries would not start until about 8am but still interfered with parents taking
 their children to school.
 
 [PlanningApplication2023]: https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?keyVal=S59KBSBOH0G00&activeTab=summary
